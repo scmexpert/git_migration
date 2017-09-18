@@ -11,3 +11,5 @@ Example :
 
 migration.sh application/redis
 migration.sh spring
+
+NOTE : Please replace your personal git token in the script and please provide the source github/gitlab url in the script.
